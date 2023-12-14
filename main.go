@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	v "github.com/libotony/pkgexample/version"
+	v "github.com/libotony/pkgexample/v2/version"
 	"github.com/vechain/thor/thor"
 )
 
