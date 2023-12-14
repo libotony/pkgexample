@@ -1,4 +1,4 @@
-module github.com/libotony/pkgexample
+module github.com/libotony/pkgexample/v2
 
 go 1.19
 
